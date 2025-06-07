@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Mr. D and I'm a Android Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is AllxdDev and I'm a Hosting Developer, from Indonesia</h2>
 
 ###
 
