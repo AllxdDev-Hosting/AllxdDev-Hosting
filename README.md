@@ -14,9 +14,8 @@
 
 <div align="center">
   <p>Student</p>
-  <p>I'm From      : Pandeglang, Banten, Indonesia</p>
+  <p>I'm From      : Lampung Selatan, Lampung, Indonesia</p>
   <p>Hobby     : Eat, Coding, Sleep, And Repeat</p>
-  <p>My Waifu❤: Yuki Suou (Never change😍)</p>
   
 </div>
 
